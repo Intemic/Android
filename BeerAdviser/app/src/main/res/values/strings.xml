@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Beer Adviser</string>
+    <string name="action_settings">Settings</string>
+    <string name="find_bear">"Найти пиво!"</string>
+    <string name="brands"></string>
+    <string-array name="beer_colors">
+        <item>светлое</item>
+        <item>темное</item>
+        <item>золотистое</item>
+        <item>полутемное</item>
+    </string-array>
+</resources>
